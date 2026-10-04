@@ -1,5 +1,5 @@
 name = "Hari"
-marks = 85
+marks = 92
 
 print("Student:", name)
 print("Marks:", marks)
